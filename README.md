@@ -1,2 +1,4 @@
-# projekt1_infgeo2
-Projekt 1, przedmiot Informatyka Geodezyjna 2, autorzy Buława Adam i Fajfer Jakub
+## Informatyka Geodezyjna II
+## Projekt 1 - Transformacje 
+Program umożliwia implementację transformacji geodezyjnych zgodnie z potrzebami użytkownika
+
